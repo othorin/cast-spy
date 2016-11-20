@@ -1,0 +1,24 @@
+{
+  "name": "cast-spy",
+  "version": "1.0.0",
+  "description": "Chromecast monitoring",
+  "main": "index.js",
+  "dependencies": {
+    "castv2-client": "^1.1.2",
+    "mdns": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/othorin/cast-spy.git"
+  },
+  "author": "Oskar Thorin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/othorin/cast-spy/issues"
+  },
+  "homepage": "https://github.com/othorin/cast-spy#readme"
+}
